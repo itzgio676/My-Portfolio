@@ -5,8 +5,7 @@ A responsive front-end portfolio built with React and Vite. Features dark/light 
 ---
 
 ## 🚀 Live Site  
-🌐 [Visit My Portfolio](https://your-deployed-url.vercel.app)  
-> Replace with your actual deployment link from Vercel or Netlify.
+🌐 [Visit My Portfolio]
 
 ---
 
