@@ -4,11 +4,6 @@ A responsive front-end portfolio built with React and Vite. Features dark/light 
 
 ---
 
-## 🚀 Live Site  
-🌐 [Visit My Portfolio]
-
----
-
 ## 🛠️ Built With
 
 - [React](https://reactjs.org/)
